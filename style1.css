@@ -1,0 +1,43 @@
+#banner{
+    background-image: url("https://image.shutterstock.com/image-illustration/chat-icon-isolated-on-abstract-600w-1406192522.jpg");
+    background-repeat: no-repeat;
+    height:400px;
+    background-size:cover; 
+
+    color: white;
+
+    justify-content: center;
+
+
+
+}
+.table{
+    background-color:grey;
+}
+.footer{
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+
+.footer{ 
+ 
+ 
+    background-color: #393D32; 
+    color: white; 
+    text-align: center; 
+    font-weight: lighter;
+}
+
+.form-floating{
+
+    border:1px solid black;
+   margin-bottom: 100px;
+
+}
+
+.nav2{
+    background-color: #C0C4C8;
+}
+
